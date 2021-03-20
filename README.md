@@ -1,2 +1,2 @@
 # Basic-Banking-System
-#SPARKS BANK
+#SPARKS
