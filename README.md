@@ -18,7 +18,7 @@ This project consist of 10 dummy users.
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
 
-**Hosting platform** 
+**HOSTING PALTFORM** 
 --> 000Webhost
 
 Website Link:https://incrust-jam.000webhostapp.com/
